@@ -1,0 +1,32 @@
+1 cd ~/desktop
+Mkdir Test2
+
+2. touch commands.txt
+
+3 made repository on git hub
+
+4. cd ~/desktop
+ Git clone https://github.com/Naomiokada/gitTest2526.git
+
+5. cd ~/desktop
+Mv Test2 ~/desktop/gitTest2526
+
+6. cd ~/gitTest2516
+Git add Test2
+Git commit -m “added Test2”
+Git push -u origin master
+
+
+7. Nano repo.txt
+
+8. Git add repo.txt
+Git commit -m “added repo.txt”
+Git push -u origin master
+
+9. Nano index.html
+10. Typed in : <!DOCTYPE html>  <html>
+ </html> 
+11. Git add index.html
+Git commit -m “added index.html”
+Git push -u origin master
+
